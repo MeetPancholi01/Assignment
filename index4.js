@@ -198,7 +198,7 @@ but.addEventListener("click",function(){
                         labels:["9am to 12pm","12pm to 3pm","3pm to 6pm","6pm to 9pm"],
                         datasets:[
                             {
-                                data:[mptime[val + "9 to 12"],mptime[val + "12 to 3"],mptime[val + "3 to 6"],mptime[val + "6 to 9"]],
+                                data:[mptime[val + "9 to 12"],mptime[val + "12 to 3"],mptime[val + "3 to 5"],mptime[val + "6 to 9"]],
                                 label: "Scheduling patterns",
                                 backgroundColor:[
                                     "rgba(255,99,132,0.7)",
