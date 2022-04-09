@@ -1,0 +1,50 @@
+body{
+    align-items: center;
+}
+
+#item_date{
+    
+    display: block;
+    margin-left: 47%;
+    margin-top: 5%;
+}
+
+.btn-primary{
+    
+    margin-left: 48%;
+    margin-top: 1%;
+
+}
+
+h3{
+    text-align: center;
+}
+
+#myChart{
+    position: absolute;
+    left: 36%;
+    top: 36%;
+}
+
+#myChart2{
+    position: absolute;
+    left: 36%;
+    top: 109%;
+}
+
+#type{
+    margin-top: 5px;
+    margin-left: 46.5%;
+}
+
+#type2{
+    margin-top: 30%;
+    margin-left: 45%;
+}
+
+.btn-danger{
+    
+    margin-left: 45%;
+    margin-top: 1%;
+
+}
